@@ -1,0 +1,19 @@
+{
+  "name": "fluxxor-tutorial",
+  "version": "1.0.0",
+  "description": "For study.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hy3/FluxxorTutorial.git"
+  },
+  "author": "hy3",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hy3/FluxxorTutorial/issues"
+  },
+  "homepage": "https://github.com/hy3/FluxxorTutorial#readme"
+}
